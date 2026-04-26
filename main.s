@@ -175,7 +175,7 @@ main_loop:
 
 
 /* ============================================================
-   read_inputs: edge-detect the three inputs and update state
+   read_inputs: edge-detect the three inputs and update the state
    ============================================================ */
 .thumb_func
 read_inputs:
